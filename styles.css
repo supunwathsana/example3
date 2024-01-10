@@ -1,8 +1,8 @@
 body
 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: rgb(255, 255, 255);
-    background-image: url("/example2/Images/Sigiriya.jpg");
+    color: rgb(21, 8, 8);
+    background-image: url("../example2/Images/Sigiriya.jpg");
 
 .container{
     width: 900px;
