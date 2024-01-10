@@ -1,0 +1,66 @@
+body
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(255, 255, 255);
+    background-image: url("../example2/Images/Sigiriya.jpg");
+
+.container{
+    width: 900px;
+    margin: 16px auto; /* centers the layout */
+}
+}
+.logo{
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing: 10px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+nav li{
+    display: inline;
+    margin-right: 20px;
+
+}
+
+nav ul{
+    padding-left: 0%;
+
+}
+
+nav a, nav a:visited,nav a:active {
+    color: rgb(241, 231, 140);
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+/* hover = mouse is on the element */
+nav a:hover{
+    color: rgb(255, 234, 0);
+    text-decoration: underline;
+}
+
+.Font{
+    font-size: 25px;
+    font-weight:lighter;
+    letter-spacing: 5px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+
+footer{
+    background-color: rgb(56, 56, 56);
+    color: rgb(241, 234, 234);
+    font-size: 12px;
+    padding-top: 16px;
+    padding-left: 24px;
+    padding-bottom: 16px;
+    padding: 16px 24px 16px 24px;
+}
+
+.center{
+text-align: center;
+
+}
